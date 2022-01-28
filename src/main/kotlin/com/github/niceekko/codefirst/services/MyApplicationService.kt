@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.niceekko.codefirst.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.niceekko.codefirst.MyBundle
 
 class MyApplicationService {
 
